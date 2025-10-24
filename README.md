@@ -35,14 +35,14 @@ A classic Tic-Tac-Toe game implemented in Java, playable in the console. This pr
     Follow the prompts in your terminal to play against the AI.
 
 ## How to Run in Eclipse
-1.Create Project: In Eclipse, go to File > New > Java Project, name it TicTacToeGame, and click Finish.
-2.Create Files: For each of your 5 classes (TicTacToe, Player, HumanPlayer, AIPlayer, LaunchGame):
-3.Right-click src folder > New > Class.
-4.Enter the class Name (e.g., TicTacToe).
-5.Click Finish.
-6.Paste Code: Open each new .java file and paste its corresponding class code into it (e.g., TicTacToe class code into TicTacToe.java).
-7.Run: Right-click on LaunchGame.java in the "Package Explorer" or in its editor window, then choose Run As > Java Application.
-8.Play: Interact with the game in the "Console" view at the bottom of Eclipse.
+1.*Create Project: In Eclipse, go to File > New > Java Project, name it TicTacToeGame, and click Finish.
+2.*Create Files: For each of your 5 classes (TicTacToe, Player, HumanPlayer, AIPlayer, LaunchGame):
+3.*Right-click src folder > New > Class.
+4.*Enter the class Name (e.g., TicTacToe).
+5.*Click Finish.
+6.*Paste Code: Open each new .java file and paste its corresponding class code into it (e.g., TicTacToe class code into TicTacToe.java).
+7.*Run: Right-click on LaunchGame.java in the "Package Explorer" or in its editor window, then choose Run As > Java Application.
+8.*Play: Interact with the game in the "Console" view at the bottom of Eclipse.
 
 ## Project Files
 
